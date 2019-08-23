@@ -1,0 +1,509 @@
+<!DOCTYPE html><html lang="en"><head><title>Products | The Giftery</title><meta charset="utf-8"/><link rel="shortcut icon" type='image/x-icon' href="/bundles/fe/images/favicon.ico"><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N78HQJ4');</script><!-- End Google Tag Manager --><meta property="og:title" content="Products"><meta name="twitter:title" content="Products"><link rel="canonical" href="https://thegiftery.com/product" /><meta property="fb:app_id" content="969878666491915" /><meta property="og:url" content="https://thegiftery.com/product" /><meta property="og:type" content="article" /><meta name="author" content="perfectneeds.com"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><!-- Google Analytics --><script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-4426712-36-1', 'auto');
+        </script><!-- End Google Analytics --><script>ga('send', 'pageview');</script><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800&display=swap" rel="stylesheet"><link rel="stylesheet" type="text/css" href="/bundles/fe/css/menu.css" media="all" /><link rel="stylesheet" type="text/css" href="/bundles/fe/css/megamenu.css" media="all" /><link rel="stylesheet" type="text/css" href="/bundles/fe/css/styles.css?v=3.9.7" media="all" /><link rel="stylesheet" type="text/css" href="/bundles/fe/css/font-awesome.css?v=1.1" media="all" /><link rel="stylesheet" type="text/css" href="/bundles/fe/css/owl.carousel.css" media="all" /><link rel="stylesheet" type="text/css" href="/bundles/fe/css/responsive.css?v=1.1" media="all" /><link rel="stylesheet" type="text/css" href="/bundles/fe/css/bootstrap.css?v=4.2" media="all" /><link rel="stylesheet" type="text/css" href="/bundles/fe/css/datepicker.min.css?v=3.5" media="all" /><link rel="stylesheet" type="text/css" href="/bundles/fe/css/em_multidealpro.css" media="all" /><link rel="stylesheet" type="text/css" href="/bundles/fe/css/em_productlabels.css" media="all" /><link rel="stylesheet" type="text/css" href="/bundles/fe/css/jquery.fancybox.css?v=1.5" media="all" /><link rel="stylesheet" type="text/css" href="/bundles/fe/css/responsive-tabs.css" media="all" /><link rel="stylesheet" type="text/css" href="/bundles/fe/css/print.css" media="print" /><link rel='stylesheet' type='text/css' media='all' href='/bundles/fe/css/style_marketdeal.css?v=1.0' /><link rel='stylesheet' type='text/css' media='all' href='/bundles/fe/css/marketdeal-style.css?v=1.0' /><link rel="stylesheet" type="text/css" href="/bundles/fe/css/blog-styles.css" media="all" /><link rel='stylesheet' type='text/css' media='all' href='/bundles/fe/css/jquery.ui.css' /><link rel='stylesheet' type='text/css' media='all' href='/bundles/fe/css/jquery.growl.css?v=1.0' /><link rel='stylesheet' type='text/css' media='all' href="/bundles/fe/css/jquery.smartmenus.bootstrap.css?v=4.2.7" rel="stylesheet"></head><body class="cms-index-index"><!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N78HQJ4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><div class="wrapper"><div class="page"><div class="clear"><div class="topHeader hidden-sm hidden-xs" role="navigation"><div class="container text-center"><a href="/"><img class="retina-img" src="/bundles/fe/images/logo.png" alt="The Giftery" /></a><ul class="text-right loginArea"><li><a href="/login" class="gtm-header-login"><i class="fa fa-sign-in"></i> Login</a> |</li><li><a href="/login" class="gtm-header-signup"><i class="fa fa-lock"></i> Create account</a></li><li><p><i class="fa fa-phone"></i> +2 01221103868</p></li></ul></div></div><div class="navbar navbar-default navbar-fixed" role="navigation"><div class="container text-center"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="em-menu-link searchBtn hidden-lg hidden-md leftMobileMenu gtm-header-mobile" href="tel:+201221103868"><img src="/bundles/fe/images/mobile-phone.png" alt="Phone"></a><a href="/" class="logoMobile hidden-lg hidden-md" style="padding-top: 3px;"><img src="/bundles/fe/images/mobile-logo.png" alt="Logo"></a><form class="searchHide" action="/search" method="get"><div class="form-search no_cate_search"><div class="text-search"><label for="search">Search:</label><input id="search" type="search" name="str" value="" class="input-text required-entry" maxlength="128" placeholder="Search products, stores or gift lists"/><button type="submit" title="Search" class="button gtm-header-search"><span><span><i class="fa fa-search"></i></span></span></button><div id="search_autocomplete" class="search-autocomplete"></div></div></div></form><div class="pull-right"><div class="rightMobileMenu hidden-lg hidden-md menuIconsPaddingMobile cartWidgetContainer"><div class="hidden-lg hidden-md"><a class="em-menu-link" href="/e-commerce/cart/my"><span><img src="/bundles/fe/images/mobile-cart.png" style="width:17px;" alt="Shopping Bag" /></span><span class="cartLength">0</span></a></div><div class="hidden-sm hidden-xs"><a class="em-menu-link" href="/e-commerce/cart/my"><span><img src="/bundles/fe/images/shoppingBag.png" alt="Shopping Bag" /></span><span class="cartLength">0</span></a></div><ul class="cartDiv"><li><div class='col-md-24'><a href="/e-commerce/cart/my" class="btn btn-default btn-block gtm-header-checkout">Check out</a></div></li></ul></div><div class="rightMobileMenu hidden-lg hidden-md"><a href="/login" class="gtm-header-login">Login</a></div></div></div><div class="navbar-collapse collapse"><ul class="nav navbar-nav navbar-left"><li><a href="/page/">Guides & Tips</a></li></ul><!-- Left nav --><ul class="nav navbar-nav navbar-center"><li><a href="/product"> Categories <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/category/flowers-food-gift-baskets">Flowers, Food &amp; Gift Baskets 
+                                        <span class="caret"></span></a><ul class="dropdown-menu"><li data-slug="chocolate-luxury-foods" class='parent nextlevelShow'><a href="/category/chocolate-luxury-foods">Chocolate &amp; Luxury Foods <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="flowers-plants" class='parent nextlevelShow'><a href="/category/flowers-plants">Flowers &amp; Plants <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="gift-hampers-baskets" class='parent nextlevelShow'><a href="/category/gift-hampers-baskets">Gift Hampers &amp; Baskets <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li></ul></li><li><a href="/category/personal-gifts">Personal Gifts 
+                                        <span class="caret"></span></a><ul class="dropdown-menu"><li data-slug="jewelry-hair-accessories" class='parent nextlevelShow'><a href="/category/jewelry-hair-accessories">Jewelry &amp; Hair Accessories <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="sport-leisure" class='parent nextlevelShow'><a href="/category/sport-leisure">Sport &amp; Leisure <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="watches" class='parent nextlevelShow'><a href="/category/watches">Watches <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="eyewear" class='parent nextlevelShow'><a href="/category/eyewear">Eyewear <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="hats-caps-umbrellas" class='parent nextlevelShow'><a href="/category/hats-caps-umbrellas">Hats, Caps &amp; Umbrellas <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="handbags-backpacks-pouches" class='parent nextlevelShow'><a href="/category/handbags-backpacks-pouches">Handbags, Backpacks &amp; Pouches <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="wallets" class='parent nextlevelShow'><a href="/category/wallets">Wallets <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="stationery" class='parent '><a href="/category/stationery">Stationery </a></li><li data-slug="books" class='parent '><a href="/category/books">Books </a></li><li data-slug="keychains" class='parent nextlevelShow'><a href="/category/keychains">Keychains <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="beauty-personal-care" class='parent nextlevelShow'><a href="/category/beauty-personal-care">Beauty &amp; Personal Care <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="mens-formal-apparel-accessories" class='parent nextlevelShow'><a href="/category/mens-formal-apparel-accessories">Men&#039;s Formal Apparel Accessories <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="clothing" class='parent nextlevelShow'><a href="/category/clothing">Clothing <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="personal-accessories-storage-organizers" class='parent '><a href="/category/personal-accessories-storage-organizers">Personal Accessories Storage &amp; Organizers </a></li><li data-slug="footwear" class='parent nextlevelShow'><a href="/category/footwear">Footwear <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="gifts-for-smokers" class='parent nextlevelShow'><a href="/category/gifts-for-smokers">Gifts For Smokers <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="car-accessories" class='parent '><a href="/category/car-accessories">Car Accessories </a></li><li data-slug="personal-gadgets-games" class='parent '><a href="/category/personal-gadgets-games">Personal Gadgets &amp; Games </a></li><li data-slug="for-the-pet" class='parent '><a href="/category/for-the-pet">For The Pet </a></li></ul></li><li><a href="/category/kids">Kids 
+                                        <span class="caret"></span></a><ul class="dropdown-menu"><li data-slug="toys-games" class='parent nextlevelShow'><a href="/category/toys-games">Toys &amp; Games <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="clothing-footwear-accessories" class='parent nextlevelShow'><a href="/category/clothing-footwear-accessories">Clothing, Footwear &amp; Accessories <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="outdoor-fun" class='parent nextlevelShow'><a href="/category/outdoor-fun">Outdoor Fun <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="health-safety" class='parent nextlevelShow'><a href="/category/health-safety">Health &amp; Safety <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="bathing-changing" class='parent '><a href="/category/bathing-changing">Bathing &amp; Changing </a></li><li data-slug="feeding-weaning" class='parent nextlevelShow'><a href="/category/feeding-weaning">Feeding &amp; Weaning <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="baby-gear" class='parent nextlevelShow'><a href="/category/baby-gear">Baby Gear <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="nursery" class='parent nextlevelShow'><a href="/category/nursery">Nursery <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="new-mom-essentials" class='parent '><a href="/category/new-mom-essentials">New Mom Essentials </a></li></ul></li><li><a href="/category/home">Home 
+                                        <span class="caret"></span></a><ul class="dropdown-menu"><li data-slug="furniture-beanbags" class='parent nextlevelShow'><a href="/category/furniture-beanbags">Furniture &amp; Beanbags <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="lighting" class='parent '><a href="/category/lighting">Lighting </a></li><li data-slug="home-dcor" class='parent nextlevelShow'><a href="/category/home-dcor">Home Décor <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="bed-bath" class='parent nextlevelShow'><a href="/category/bed-bath">Bed &amp; Bath <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="home-organization-storage-tools" class='parent '><a href="/category/home-organization-storage-tools">Home Organization, Storage &amp; Tools </a></li><li data-slug="kitchen-essentials-accessories" class='parent nextlevelShow'><a href="/category/kitchen-essentials-accessories">Kitchen Essentials &amp; Accessories <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="tabletop" class='parent nextlevelShow'><a href="/category/tabletop">Tabletop <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="drinkware" class='parent nextlevelShow'><a href="/category/drinkware">Drinkware <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li></ul></li><li><a href="/category/electronics">Electronics 
+                                        <span class="caret"></span></a><ul class="dropdown-menu"><li data-slug="small-appliances" class='parent nextlevelShow'><a href="/category/small-appliances">Small Appliances <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="smart-tech-phones" class='parent nextlevelShow'><a href="/category/smart-tech-phones">Smart Tech &amp; Phones <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="electronics-accessories" class='parent nextlevelShow'><a href="/category/electronics-accessories">Electronics Accessories <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="entertainment" class='parent nextlevelShow'><a href="/category/entertainment">Entertainment <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="home-appliances" class='parent nextlevelShow'><a href="/category/home-appliances">Home Appliances <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li><li data-slug="personal-care" class='parent nextlevelShow'><a href="/category/personal-care">Personal Care <span class="caret"></span></a><ul class="dropdown-menu levelThree"><li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li></ul></li></ul></li><li><a href="/category/party-supplies">Party Supplies 
+                                        <span class="caret"></span></a><ul class="dropdown-menu"><li data-slug="disposables" class='parent '><a href="/category/disposables">Disposables </a></li><li data-slug="decorations" class='parent '><a href="/category/decorations">Decorations </a></li><li data-slug="party-favors" class='parent '><a href="/category/party-favors">Party Favors </a></li><li data-slug="partywear" class='parent '><a href="/category/partywear">Partywear </a></li></ul></li><li><a href="/category/gift-cards-vouchers-charity-gifts">Gift Cards, Vouchers &amp; Charity Gifts 
+                                        <span class="caret"></span></a><ul class="dropdown-menu"><li data-slug="thegiftery-gift-cards" class='parent '><a href="/category/thegiftery-gift-cards">TheGiftery Gift Cards </a></li><li data-slug="more-gift-cards" class='parent '><a href="/category/more-gift-cards">More Gift Cards </a></li><li data-slug="gifts-for-a-causecharity-gifts" class='parent '><a href="/category/gifts-for-a-causecharity-gifts">Gifts For A Cause/Charity Gifts </a></li></ul></li><li><a href="/category/greeting-cards-gift-wrapping">Greeting Cards &amp; Gift Wrapping 
+                                        <span class="caret"></span></a><ul class="dropdown-menu"><li data-slug="greeting-cards" class='parent '><a href="/category/greeting-cards">Greeting Cards </a></li><li data-slug="gift-wrapping-boxes-baskets" class='parent '><a href="/category/gift-wrapping-boxes-baskets">Gift Wrapping, Boxes &amp; Baskets </a></li></ul></li></ul></li><li><a href="#">Gifts by recipient <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/gift/gifts-for-him">Gifts For Him</a></li><li><a href="/gift/gifts-for-her">Gifts For Her</a></li><li><a href="/gift/gifts-for-babies">Gifts For Babies</a></li><li><a href="/gift/gifts-for-kids">Gifts For Kids</a></li><li><a href="/gift/gifts-for-teenagers">Gifts For Teenagers</a></li><li><a href="/gift/gifts-for-the-newly-weds">Gifts For The Newly Weds</a></li><li><a href="/gift/gifts-for-the-grandparents">Gifts For The Grandparents</a></li><li><a href="/gift/gifts-for-the-pet">Gifts For The Pet</a></li></ul></li><li><a href="#">by occasion <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/occasion/back-to-school19">Back To School</a></li><li><a href="/gift/anniversary-gifts">Anniversary Gifts</a></li><li><a href="/gift/summer-gifts">Summer Gifts</a></li><li><a href="/gift/baby-shower-registry-essentials">Baby Shower Registry Essentials</a></li><li><a href="/gift/birthday-gifts">Birthday Gifts</a></li><li><a href="/gift/wedding-registry-essentials">Wedding Registry Essentials</a></li><li><a href="/gift/giveaways-cor">Giveaways &amp; Corporate Gift Ideas</a></li><li><a href="/gift/last-minute-gifts">Last Minute Gifts</a></li></ul></li><li><a href="#">by inspiration <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/occasion/back-to-school19">Back To School</a></li><li><a href="/gift/customize-personalize-it">Customize &amp; Personalize It!</a></li><li><a href="/gift/gourmet-gifts">Gourmet Gifts</a></li><li><a href="/gift/cadbury-gifts">Cadbury Gifts</a></li><li><a href="/gift/flowers-chocolates">Flowers &amp; Chocolates</a></li><li><a href="/gift/romantic-gifts">Romantic Gifts</a></li><li><a href="/gift/handmade-gifts">Handmade Gifts</a></li><li><a href="/gift/egyptian-gifts">Egyptian Gifts</a></li><li><a href="/gift/summer-gifts">Summer Gifts</a></li><li><a href="/gift/mercedesbenz">Mercedes-Benz Gifts</a></li><li><a href="/gift/baby-shower-registry-essentials">Baby Shower Registry Essentials</a></li><li><a href="/gift/wedding-registry-essentials">Wedding Registry Essentials</a></li><li><a href="/gift/gift-baskets">Gift Baskets</a></li><li><a href="/gift/giveaways-cor">Giveaways &amp; Corporate Gift Ideas</a></li><li><a href="/gift/last-minute-gifts">Last Minute Gifts</a></li></ul></li><li><a href="/gift-list">Gift Lists <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/gift-list/myss-mohameds-wedding-registry">Myss &amp; Mohamed&#039;s Wedding Registry</a></li><li><a href="/gift-list/hossam-and-rana">Hossam and Rana</a></li><li><a href="/gift-list/nesmaXfadi">Nesma and Fadi&#039;s Big Day</a></li><li><a href="/gift-list/waleed-nora">Waleed &amp; Nora&#039;s Wedding List</a></li><li><a href="/gift-list/rami-and-cathies-wedding">Rami and Cathie&#039;s Wedding Gift List</a></li><li><a href="/gift-list/the-semsems-list">The Semsems’ list</a></li><li><a href="/gift-list/sondos-farid">Sondos &amp; Farid</a></li><li><a href="/gift-list" class="btn btn-block">View all gift lists</a></li></ul></li><li><a href="/stores">Stores</a></li><li><a href="/product/new-arrival">New Arrivals</a></li><li><a href="/product/offers">Offers</a></li><li class="mercedesFont"><a href="/mercedesbenz">Mercedes-Benz Store</a></li><li><a href="/occasion/back-to-school19" style="color: #fb6666 !important;max-width: 150px;overflow: hidden;text-overflow: ellipsis;word-break: break-word;white-space: nowrap;">Back To School</a></li></ul><!-- Right nav --><ul class="nav navbar-nav navbar-right"><li class="hidden-sm hidden-xs menuIconsPadding"><a class="em-menu-link searchBtn gtm-header-search" href="javascript:;"><span><!--Search--><img src="/bundles/fe/images/search.png" alt="search" /></a><form class="searchHide" action="/search" method="get"><div class="form-search no_cate_search"><div class="text-search"><label for="search">Search:</label><input type="search" name="str" value="" class="input-text required-entry" maxlength="128" placeholder="Search products, stores or gift lists"/><button type="submit" title="Search" class="button"><span><span><i class="fa fa-search"></i></span></span></button><div id="search_autocomplete" class="search-autocomplete"></div></div></div></form></li><li class="hidden-sm hidden-xs cartWidgetContainer menuIconsPadding cartsLink"><div class="hidden-lg hidden-md"><a class="em-menu-link" href="/e-commerce/cart/my"><span><img src="/bundles/fe/images/mobile-cart.png" style="width:17px;" alt="Shopping Bag" /></span><span class="cartLength">0</span></a></div><div class="hidden-sm hidden-xs"><a class="em-menu-link" href="/e-commerce/cart/my"><span><img src="/bundles/fe/images/shoppingBag.png" alt="Shopping Bag" /></span><span class="cartLength">0</span></a></div><ul class="cartDiv"><li><div class='col-md-24'><a href="/e-commerce/cart/my" class="btn btn-default btn-block gtm-header-checkout">Check out</a></div></li></ul></li></ul></div><!--/.nav-collapse --></div><!--/.container --></div><div class="col-xs-24 text-center hidden-lg hidden-md"><div class="col-xs-12"><form action="/search" method="get"><span class="mobile-search"><input  type="search" results="2" name="str" value="" class="input-text" maxlength="128" placeholder="Search"/></span></form></div><div class="col-xs-12"><div class="mobile-occasion">
+                SHOP: <a href="/occasion/back-to-school19">Back To School</a></div></div></div><div class="wrapper-breadcrums"><div class="container"><div class="row"><div class="col-sm-24"><div class="breadcrumbs"><ul><li class="home"><a href="/" title="Home"><span>Home</span></a><span
+                                    class="separator">/ </span></li><li class="contact"><strong> Products</strong></li></ul></div></div></div></div></div><div class="em-wrapper-main"><div class="container container-main"><div class="em-inner-main"><div class="em-wrapper-area02"></div><div class="em-wrapper-area03"></div><div class="em-wrapper-area04"></div><div class="em-main-container em-col2-left-layout"><div class="row"><div class="col-sm-5 col-xs-24 refine block-content"><h3 class="sideTitle">Refine Search <span class="fa fa-plus"></span></h3><form action="/product" id="filtration"><dl><dt>Search</dt><dd class="paddings"><ol><li><input type="text" class="form-control str" name="str"  placeholder="Search"></li></ol></dd></dl><dl><dt>PRICE</dt><dd><input id="minP" type="hidden" name="minp" ><input id="maxP" type="hidden" name="maxp" ><div class="rslider"><div id="slider-range"></div><div class="values"><span id="from-val"><span class="price">10</span></span><span id="to-val"><span class="price">20000</span></span></div></div></dd></dl><dl><dt>GENDER</dt><dd><ol><li><input name="sa[]" id="31" value="31" type="checkbox" ><label for="31"><span></span> Female</label></li><li><input name="sa[]" id="30" value="30" type="checkbox" ><label for="30"><span></span> Male</label></li><li><input name="sa[]" id="32" value="32" type="checkbox" ><label for="32"><span></span> Unisex</label></li></ol></dd></dl><dl><dt>AGE <a href="#!" class="moreCategories"><i class="fa fa-plus-circle"></i></a></dt><dd><ol><li class="hiddenCategory"><input name="sa[]" id="1" value="1" type="checkbox" ><label for="1"><span></span> 0-3 months</label></li><li class="hiddenCategory"><input name="sa[]" id="10" value="10" type="checkbox" ><label for="10"><span></span> 10-12 years</label></li><li class="hiddenCategory"><input name="sa[]" id="5" value="5" type="checkbox" ><label for="5"><span></span> 12-24 months</label></li><li class="hiddenCategory"><input name="sa[]" id="6" value="6" type="checkbox" ><label for="6"><span></span> 2-4 years</label></li><li class="hiddenCategory"><input name="sa[]" id="2" value="2" type="checkbox" ><label for="2"><span></span> 3-6 months</label></li><li class="hiddenCategory"><input name="sa[]" id="7" value="7" type="checkbox" ><label for="7"><span></span> 4-6 years</label></li><li class="hiddenCategory"><input name="sa[]" id="8" value="8" type="checkbox" ><label for="8"><span></span> 6-8 years</label></li><li class="hiddenCategory"><input name="sa[]" id="3" value="3" type="checkbox" ><label for="3"><span></span> 6-9 months</label></li><li class="hiddenCategory"><input name="sa[]" id="9" value="9" type="checkbox" ><label for="9"><span></span> 8-10 years</label></li><li class="hiddenCategory"><input name="sa[]" id="4" value="4" type="checkbox" ><label for="4"><span></span> 9-12 months</label></li><li class="hiddenCategory"><input name="sa[]" id="12" value="12" type="checkbox" ><label for="12"><span></span> Adults</label></li><li class="hiddenCategory"><input name="sa[]" id="13" value="13" type="checkbox" ><label for="13"><span></span> Seniors</label></li><li class="hiddenCategory"><input name="sa[]" id="11" value="11" type="checkbox" ><label for="11"><span></span> Teens</label></li></ol></dd></dl><dl><dt>OCCASION <a href="#!" class="moreCategories"><i class="fa fa-plus-circle"></i></a></dt><dd><ol><li class="hiddenCategory"><input name="o[]" id="oc1" value="1" type="checkbox" ><label for="oc1"><span></span> Christmas Store</label></li><li class="hiddenCategory"><input name="o[]" id="oc2" value="2" type="checkbox" ><label for="oc2"><span></span> Winter Store</label></li><li class="hiddenCategory"><input name="o[]" id="oc3" value="3" type="checkbox" ><label for="oc3"><span></span> Valentine Store</label></li><li class="hiddenCategory"><input name="o[]" id="oc4" value="4" type="checkbox" ><label for="oc4"><span></span> Wedding Gifts</label></li><li class="hiddenCategory"><input name="o[]" id="oc5" value="5" type="checkbox" ><label for="oc5"><span></span> Mother&#039;s Day Gifts</label></li><li class="hiddenCategory"><input name="o[]" id="oc6" value="6" type="checkbox" ><label for="oc6"><span></span> Easter Store</label></li><li class="hiddenCategory"><input name="o[]" id="oc7" value="7" type="checkbox" ><label for="oc7"><span></span> Ramadan Gifts</label></li><li class="hiddenCategory"><input name="o[]" id="oc8" value="8" type="checkbox" ><label for="oc8"><span></span> Sa7el Collection</label></li><li class="hiddenCategory"><input name="o[]" id="oc9" value="9" type="checkbox" ><label for="oc9"><span></span> Back to School 18</label></li><li class="hiddenCategory"><input name="o[]" id="oc10" value="10" type="checkbox" ><label for="oc10"><span></span> Christmas Gifts</label></li><li class="hiddenCategory"><input name="o[]" id="oc11" value="11" type="checkbox" ><label for="oc11"><span></span> Valentine Gifts</label></li><li class="hiddenCategory"><input name="o[]" id="oc12" value="12" type="checkbox" ><label for="oc12"><span></span> Mother&#039;s Day Gifts</label></li><li class="hiddenCategory"><input name="o[]" id="oc13" value="13" type="checkbox" ><label for="oc13"><span></span> Spring Gifts</label></li><li class="hiddenCategory"><input name="o[]" id="oc14" value="14" type="checkbox" ><label for="oc14"><span></span> Ramadan Gifts 2019</label></li><li class="hiddenCategory"><input name="o[]" id="oc15" value="15" type="checkbox" ><label for="oc15"><span></span> Summer Gifts</label></li><li class="hiddenCategory"><input name="o[]" id="oc16" value="16" type="checkbox" ><label for="oc16"><span></span> Back To School</label></li></ol></dd></dl><dl><dt>EVENT <a href="#!" class="moreCategories"><i class="fa fa-plus-circle"></i></a></dt><dd><ol><li class="hiddenCategory"><input name="sa[]" id="194" value="194" type="checkbox" ><label for="194"><span></span> Baby Shower</label></li><li class="hiddenCategory"><input name="sa[]" id="204" value="204" type="checkbox" ><label for="204"><span></span> Baptism</label></li><li class="hiddenCategory"><input name="sa[]" id="193" value="193" type="checkbox" ><label for="193"><span></span> Birthday</label></li><li class="hiddenCategory"><input name="sa[]" id="209" value="209" type="checkbox" ><label for="209"><span></span> Christmas</label></li><li class="hiddenCategory"><input name="sa[]" id="927" value="927" type="checkbox" ><label for="927"><span></span> Corporate</label></li><li class="hiddenCategory"><input name="sa[]" id="202" value="202" type="checkbox" ><label for="202"><span></span> Easter</label></li><li class="hiddenCategory"><input name="sa[]" id="199" value="199" type="checkbox" ><label for="199"><span></span> Engagement</label></li><li class="hiddenCategory"><input name="sa[]" id="203" value="203" type="checkbox" ><label for="203"><span></span> Halloween</label></li><li class="hiddenCategory"><input name="sa[]" id="805" value="805" type="checkbox" ><label for="805"><span></span> House Warming</label></li><li class="hiddenCategory"><input name="sa[]" id="804" value="804" type="checkbox" ><label for="804"><span></span> Kids Birthday</label></li><li class="hiddenCategory"><input name="sa[]" id="195" value="195" type="checkbox" ><label for="195"><span></span> Mother&#039;s Day</label></li><li class="hiddenCategory"><input name="sa[]" id="197" value="197" type="checkbox" ><label for="197"><span></span> Ramadan</label></li><li class="hiddenCategory"><input name="sa[]" id="803" value="803" type="checkbox" ><label for="803"><span></span> Summer</label></li><li class="hiddenCategory"><input name="sa[]" id="196" value="196" type="checkbox" ><label for="196"><span></span> Valentine&#039;s Day</label></li><li class="hiddenCategory"><input name="sa[]" id="198" value="198" type="checkbox" ><label for="198"><span></span> Wedding</label></li></ol></dd></dl></form></div><div class="col-sm-19 col-xs-24 em-col-main pull-right"><div class="category-products"><div class="toolbar-top col-sm-24 col-xs-24"><div class="toolbar"><div class="sorter"><div class="sort-by toolbar-switch list col-xs-24"><div class="toolbar-title"><label>Sort By :</label><select class="sortby" name=""><option selected="" data-url="/product">
+                                                            Recently added
+                                                        </option><option  data-url="/product/1/2">
+                                                            Price low to high
+                                                        </option><option  data-url="/product/1/3">
+                                                            Price high to low
+                                                        </option><option  data-url="/product/1/4">
+                                                            Alphabetical Ascending
+                                                        </option><option  data-url="/product/1/5">
+                                                            Alphabetical Descending
+                                                        </option></select></div></div></div></div></div><div class="clearfix"><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9756"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-power-girl-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10348/thumb/16224.jpeg" alt="THE POWER GIRL BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-power-girl-backpack"><h2 class="col-sm-24 ">
+                        THE POWER GIRL BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        700 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-power-girl-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-power-girl-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-power-girl-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9755"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-unicorn-fantasy-land-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10347/thumb/16222.jpeg" alt="THE UNICORN FANTASY LAND BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-unicorn-fantasy-land-backpack"><h2 class="col-sm-24 ">
+                        THE UNICORN FANTASY LAND BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        700 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-unicorn-fantasy-land-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-unicorn-fantasy-land-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-unicorn-fantasy-land-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9754"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-mermaid-skin-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10346/thumb/16220.jpeg" alt="THE MERMAID SKIN BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-mermaid-skin-backpack"><h2 class="col-sm-24 ">
+                        THE MERMAID SKIN BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        700 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-mermaid-skin-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-mermaid-skin-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-mermaid-skin-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9753"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-pink-galaxy-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10345/thumb/16216.jpeg" alt="THE PINK GALAXY BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-pink-galaxy-backpack"><h2 class="col-sm-24 ">
+                        THE PINK GALAXY BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        700 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-pink-galaxy-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-pink-galaxy-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-pink-galaxy-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9752"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-pink-butterflies-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10344/thumb/16212.jpeg" alt="THE PINK BUTTERFLIES BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-pink-butterflies-backpack"><h2 class="col-sm-24 ">
+                        THE PINK BUTTERFLIES BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        700 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-pink-butterflies-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-pink-butterflies-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-pink-butterflies-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9751"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-happy-owls-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10343/thumb/16210.jpeg" alt="THE HAPPY OWLS BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-happy-owls-backpack"><h2 class="col-sm-24 ">
+                        THE HAPPY OWLS BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        700 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-happy-owls-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-happy-owls-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-happy-owls-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9750"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-young-mermaid-girls-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10342/thumb/16206.jpeg" alt="THE YOUNG MERMAID GIRLS BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-young-mermaid-girls-backpack"><h2 class="col-sm-24 ">
+                        THE YOUNG MERMAID GIRLS BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        700 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-young-mermaid-girls-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-young-mermaid-girls-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-young-mermaid-girls-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9749"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-hero-bear-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10341/thumb/16204.jpeg" alt="THE HERO BEAR BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-hero-bear-backpack"><h2 class="col-sm-24 ">
+                        THE HERO BEAR BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        700 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-hero-bear-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-hero-bear-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-hero-bear-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9748"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-monster-party-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10340/thumb/16201.jpeg" alt="THE MONSTER PARTY BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-monster-party-backpack"><h2 class="col-sm-24 ">
+                        THE MONSTER PARTY BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        700 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-monster-party-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-monster-party-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-monster-party-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9747"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-basketball-fans-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10339/thumb/16198.jpeg" alt="THE BASKETBALL FANS BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-basketball-fans-backpack"><h2 class="col-sm-24 ">
+                        THE BASKETBALL FANS BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        700 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-basketball-fans-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-basketball-fans-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-basketball-fans-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9746"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-football-fans-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10338/thumb/16197.jpeg" alt="THE FOOTBALL FANS BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-football-fans-backpack"><h2 class="col-sm-24 ">
+                        THE FOOTBALL FANS BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        700 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-football-fans-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-football-fans-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-football-fans-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9745"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-fighter-jets-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10337/thumb/16196.jpeg" alt="THE FIGHTER JETS BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-fighter-jets-backpack"><h2 class="col-sm-24 ">
+                        THE FIGHTER JETS BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        1,000 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-fighter-jets-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-fighter-jets-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-fighter-jets-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9744"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-mermaid-skin-sequin-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10336/thumb/16191.jpeg" alt="THE MERMAID SKIN SEQUIN BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-mermaid-skin-sequin-backpack"><h2 class="col-sm-24 ">
+                        THE MERMAID SKIN SEQUIN BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        1,250 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-mermaid-skin-sequin-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-mermaid-skin-sequin-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-mermaid-skin-sequin-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9743"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-unicorn-sequin-backpack"><figure class="proWidg"><span><img src="/uploads/product/image/10335/thumb/16189.jpeg" alt="THE UNICORN SEQUIN BACKPACK"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-unicorn-sequin-backpack"><h2 class="col-sm-24 ">
+                        THE UNICORN SEQUIN BACKPACK
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        1,250 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-unicorn-sequin-backpack"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-unicorn-sequin-backpack" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-unicorn-sequin-backpack" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9742"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/the-mermaid-skin-sequin-lunch-bag"><figure class="proWidg"><span><img src="/uploads/product/image/10334/thumb/16187.jpeg" alt="THE MERMAID SKIN SEQUIN LUNCH BAG"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/the-mermaid-skin-sequin-lunch-bag"><h2 class="col-sm-24 ">
+                        THE MERMAID SKIN SEQUIN LUNCH BAG
+                    </h2><p class="col-md-24 ">Style Treasure</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        400 EGP
+                        <div class="price-vat">+ 14% VAT</div></h3></div></div><div class="hoverShadow"><a href="/product/the-mermaid-skin-sequin-lunch-bag"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/the-mermaid-skin-sequin-lunch-bag" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/the-mermaid-skin-sequin-lunch-bag" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9741"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/white-roses-bouquet"><figure class="proWidg"><span><img src="/uploads/product/image/10332/thumb/16186.jpeg" alt="White Roses Bouquet  (30-100 Roses)"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/white-roses-bouquet"><h2 class="col-sm-24 ">
+                        White Roses Bouquet  (30-100 Roses)
+                    </h2><p class="col-md-24 ">FLOWER MAD</p><p class="col-md-24 darkRed ">More sizes / colors</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        600 EGP
+                                            </h3></div></div><div class="hoverShadow"><a href="/product/white-roses-bouquet"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/white-roses-bouquet" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/white-roses-bouquet" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9740"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/white-lilies"><figure class="proWidg"><span><img src="/uploads/product/image/10331/thumb/16185.jpeg" alt="White Lilies Flowers Vase"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/white-lilies"><h2 class="col-sm-24 ">
+                        White Lilies Flowers Vase
+                    </h2><p class="col-md-24 ">FLOWER MAD</p><p class="col-md-24 darkRed ">More sizes / colors</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        500 EGP
+                                            </h3></div></div><div class="hoverShadow"><a href="/product/white-lilies"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/white-lilies" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/white-lilies" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9739"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/lilies-flowers-bouquet"><figure class="proWidg"><span><img src="/uploads/product/image/10330/thumb/16184.jpeg" alt="Lilies Flowers Bouquet"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/lilies-flowers-bouquet"><h2 class="col-sm-24 ">
+                        Lilies Flowers Bouquet
+                    </h2><p class="col-md-24 ">FLOWER MAD</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        550 EGP
+                                            </h3></div></div><div class="hoverShadow"><a href="/product/lilies-flowers-bouquet"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/lilies-flowers-bouquet" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/lilies-flowers-bouquet" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9738"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/white-dove-flowers"><figure class="proWidg"><span><img src="/uploads/product/image/10329/thumb/16183.jpeg" alt="White Dove Flowers"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/white-dove-flowers"><h2 class="col-sm-24 ">
+                        White Dove Flowers
+                    </h2><p class="col-md-24 ">FLOWER MAD</p><p class="col-md-24 darkRed ">More sizes / colors</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        900 EGP
+                                            </h3></div></div><div class="hoverShadow"><a href="/product/white-dove-flowers"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/white-dove-flowers" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/white-dove-flowers" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9737"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/red-roses-in-vase"><figure class="proWidg"><span><img src="/uploads/product/image/10328/thumb/16182.jpeg" alt="12 Red Roses In A Vase"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/red-roses-in-vase"><h2 class="col-sm-24 ">
+                        12 Red Roses In A Vase
+                    </h2><p class="col-md-24 ">FLOWER MAD</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        450 EGP
+                                            </h3></div></div><div class="hoverShadow"><a href="/product/red-roses-in-vase"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/red-roses-in-vase" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/red-roses-in-vase" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9736"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/25-100-red-roses-bouquet"><figure class="proWidg"><span><img src="/uploads/product/image/10327/thumb/16181.jpeg" alt="Red Roses Bouquet (25-100 Roses )"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/25-100-red-roses-bouquet"><h2 class="col-sm-24 ">
+                        Red Roses Bouquet (25-100 Roses )
+                    </h2><p class="col-md-24 ">FLOWER MAD</p><p class="col-md-24 darkRed ">More sizes / colors</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        450 EGP
+                                            </h3></div></div><div class="hoverShadow"><a href="/product/25-100-red-roses-bouquet"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/25-100-red-roses-bouquet" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/25-100-red-roses-bouquet" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9735"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/30-100-red-roses-in-glass-vase"><figure class="proWidg"><span><img src="/uploads/product/image/10326/thumb/16180.jpeg" alt="Red Roses In A  Glass Vase (30-100 Roses )"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/30-100-red-roses-in-glass-vase"><h2 class="col-sm-24 ">
+                        Red Roses In A  Glass Vase (30-100 Roses )
+                    </h2><p class="col-md-24 ">FLOWER MAD</p><p class="col-md-24 darkRed ">More sizes / colors</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        700 EGP
+                                            </h3></div></div><div class="hoverShadow"><a href="/product/30-100-red-roses-in-glass-vase"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/30-100-red-roses-in-glass-vase" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/30-100-red-roses-in-glass-vase" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="9734"><div class="productCol"><ul class="productLabels"><li class="new" data-toggle="tooltip" data-placement="bottom" title="New Arrival">NEW</li></ul><a href="/product/purplish-white-flowers-pot"><figure class="proWidg"><span><img src="/uploads/product/image/10325/thumb/16178.jpeg" alt="Purplish &amp; White Flowers Pot"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/purplish-white-flowers-pot"><h2 class="col-sm-24 ">
+                        Purplish &amp; White Flowers Pot
+                    </h2><p class="col-md-24 ">FLOWER MAD</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        800 EGP
+                                            </h3></div></div><div class="hoverShadow"><a href="/product/purplish-white-flowers-pot"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/purplish-white-flowers-pot" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/purplish-white-flowers-pot" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div><div class="col-md-6 col-sm-12 col-xs-12 col-xxs-24" id="6083"><div class="productCol"><ul class="productLabels"></ul><a href="/product/concealed-coil-jug-kettle"><figure class="proWidg"><span><img src="/uploads/product/image/6615/thumb/16176.jpeg" alt="Concealed Coil Jug Kettle"></span></figure></a><div class="col-sm-24"><div class="col-md-24 productDesc"><a href="/product/concealed-coil-jug-kettle"><h2 class="col-sm-24 ">
+                        Concealed Coil Jug Kettle
+                    </h2><p class="col-md-24 ">Black &amp; Decker</p></a></div><div class="col-md-24 productInfo"><h3 class="productPrice ">
+                        1,280 EGP
+                                            </h3></div></div><div class="hoverShadow"><a href="/product/concealed-coil-jug-kettle"  class="showProduct hidden-xs"></a><div class="quickViewContainer"><a href="/product/quickview/concealed-coil-jug-kettle" onclick="return false;" class="quickView btn btn-default gtm-product-quick-view">Quick View</a><a href="/product/concealed-coil-jug-kettle" class="btn btn-info gtm-product-view-all-details">view all details</a></div></div></div></div></div><div class="pages text-center  col-xs-24"><ol><li class="current">
+            1        </li><li ><a href="/product/2">2</a></li><li ><a href="/product/3">3</a></li><li ><a href="/product/4">4</a></li><li ><a href="/product/5">5</a></li><li><a role="button" href="/product/2" class="next i-next"><i class="fa fa-angle-right"></i></a></li><li><a role="button" href="/product/118" class="next i-next"><i class="fa fa-angle-double-right"></i></a></li></ol></div></div></div></div></div></div></div></div><div class="lightboxContainer"></div></div><div class="fb-livechat"><div class="ctrlq fb-overlay"></div><div class="fb-widget"><div class="ctrlq fb-close"></div><div class="fb-page" data-href="https://www.facebook.com/thegiftery/" data-tabs="messages" data-width="285" data-height="400" data-small-header="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/thegiftery/" class="fb-xfbml-parse-ignore"></blockquote></div><div id="fb-root"></div></div><a href="https://m.me/thegiftery" title="Send us a message on Facebook" class="ctrlq fb-button gtm-footer-facebbok-send-msg"></a></div><div class="em-wrapper-footer"><div class="em-footer-style09"><div class="em-footer-top"><div class="container"><div class="row footerBorder"><div class="col-sm-24"><div class="em-footer-info"><div class="em-footer-info-bottom"><div class="col-sm-14 col-xs-24">
+    <div id="collapse02">
+        <ul class="em-links em-block-content block-info col-md-7 col-sm-12 col-xs-12 col-xxs-24">
+            <li class="em-links-item"><a href="/product"><span>Gift Shopping</span></a></li>
+            <li class="em-links-item"><a href="/page/gift-guides"><span>Gift Guides</span></a></li>
+            <li class="em-links-item"><a href="/stores"><span>Stores</span></a></li>
+            <li class="em-links-item"><a href="/page/delivery-returns-exchange"><span>Delivery Returns & Exchange</span></a></li>
+        </ul>
+        <ul class="em-links em-block-content block-info col-md-6 col-sm-12 col-xs-12 col-xxs-24">
+            <li class="em-links-item"><a href="/e-commerce/gift-list/new"><span>Create A Gift List</span></a></li>
+            <li class="em-links-item"><a href="#"><span>Shop From Gift List</span></a></li>
+            <li class="em-links-item"><a href="/page/wedding-gift-list-benefits"><span>Gift List Benefits</span></a></li>
+            <li class="em-links-item"><a href="/sitemap"><span>Sitemap</span></a></li>
+        </ul>
+        <ul class="em-links em-block-content block-info col-md-6 col-sm-12 col-xs-12 col-xxs-24">
+            <li class="em-links-item"><a href="/page/affiliated-partners"><span>Affiliated Partners</span></a></li>
+            <li class="em-links-item"><a href="/page/careers"><span>Careers</span></a></li>
+            <li class="em-links-item"><a href="/page/terms-conditions"><span>Terms & Conditions</span></a></li>
+        </ul>
+        <ul class="em-links em-block-content block-info col-md-5 col-sm-12 col-xs-12 col-xxs-24">
+            <li class="em-links-item"><a href="/page/gift-cards"><span>Gift Cards</span></a></li>
+            <li class="em-links-item"><a href="/contactus/"><span>Contact Us</span></a></li>
+            <li class="em-links-item"><a href="/faq/"><span>FAQ</span></a></li>
+        </ul>
+    </div>
+</div><div class="col-sm-10 col-xs-24 text-right"><ul class="socialicons"><li><a href="https://www.facebook.com/thegiftery/?fref=ts" class="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/TheGifterycom" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.pinterest.com/thegiftery/?etslf=17250&eq=thegiftery.com" class="pinterest" target="_blank"><i class="fa fa-pinterest"></i></a></li><li><a href="https://www.instagram.com/thegifteryegypt/" class="instagram" target="_blank"><i class="fa fa-instagram"></i></a></li></ul></div></div></div></div></div></div></div><div class="em-footer-bottom"><div class="container"><div class="row footerBorder"><div class="col-sm-24"><div class="em-area-footer02"><div class="em-payment f-right"><img src="/bundles/fe/images/logo_small.png" alt="The Giftery" /><div class="fb-like" data-href="https://www.facebook.com/thegiftery" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div></div></div><div class="em-footer-address"><address class="f-left">&copy; 2019 The Giftery . All Rights Reserved.<span><a href="http://www.perfectneeds.com" target="_blank">Developed by <span>PerfectNeeds</span></a></span></address></div></div></div></div></div></div></div><p id="back-top" style="display: none;"><a title="Top" href="#top">Top</a></p><div class="popup-content" id="em-popup"></div></div></div><script type="text/javascript" src="/bundles/fe/js/jquery-1.11.3.min.js"></script><script type="text/javascript" src="/bundles/fe/js/bootstrap.min.js"></script><script type="text/javascript" src="/bundles/fe/js/jquery.lazyload.min.js"></script><script type="text/javascript" src="/bundles/fe/js/owl.carousel.js"></script><script type="text/javascript" src="/bundles/fe/js/ios-orientationchange-fix.js"></script><script type="text/javascript" src="/bundles/fe/js/jquery.hoverIntent.js"></script><script type="text/javascript" src="/bundles/fe/js/selectUl.js"></script><script type="text/javascript" src="/bundles/fe/js/jquery.ba-throttle-debounce.js"></script><script type="text/javascript" src="/bundles/fe/js/em0131.js"></script><script type="text/javascript" src="/bundles/fe/js/megamenu.js"></script><script type="text/javascript" src="/bundles/fe/js/jquery.custom.responsiveTabs.js"></script><script type="text/javascript" src="/bundles/fe/js/jquery.fancybox.js"></script><script type="text/javascript" src="/bundles/fe/js/em_category.js"></script><script type="text/javascript" src="/bundles/fe/js/jquery-ui.min.js"></script><script type="text/javascript" src="/bundles/fe/js/custom.js"></script><script type="text/javascript" src="/bundles/fe/js/jquery.growl.js"></script><script type="text/javascript" src="/bundles/fe/js/jquery.smartmenus.js"></script><script type="text/javascript" src="/bundles/fe/js/jquery.smartmenus.bootstrap.js"></script><script src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9"></script><script>$(document).ready(function () {
+            var t = {delay: 125, overlay: $(".fb-overlay"), widget: $(".fb-widget"), button: $(".fb-button")};
+            setTimeout(function () {
+                $("div.fb-livechat").fadeIn()
+            }, 8 * t.delay), $(".ctrlq").on("click", function (e) {
+                e.preventDefault(), t.overlay.is(":visible") ? (t.overlay.fadeOut(t.delay), t.widget.stop().animate({display: 'none', bottom: 0, opacity: 0}, 2 * t.delay, function () {
+                    $(this).hide("slow"), t.button.show()
+                })) : t.button.fadeOut("medium", function () {
+                    t.widget.stop().show().animate({display: 'block', bottom: "30px", opacity: 1}, 2 * t.delay), t.overlay.fadeIn(t.delay)
+                })
+            })
+        });</script><script type="text/javascript">
+        $(document).ready(function () {
+            $('body').tooltip({selector: '[data-toggle=tooltip]'});
+            $('.searchBtn').click(function () {
+                $(this).next(".searchHide").fadeToggle();
+            });
+            $('.myProfile').click(function () {
+                $(".profileMenu").stop(true.true).slideToggle();
+            });
+            if ($(window).width() > 1200) {
+                $('.productCol').hover(function () {
+                    $(this).children('.hoverShadow').stop(true, true).fadeIn();
+                }, function () {
+                    $(this).children('.hoverShadow').stop(true, true).fadeOut();
+                });
+            }
+            if ($(window).width() < 996) {
+                $('.cartWidgetContainer a').click(function () {
+                    $('.cartDiv').stop(true, true).slideToggle();
+                });
+            }
+            $('.menuIconsPadding.cartsLink').hover(function () {
+                $('.cartDiv').stop(true, true).css('display', 'block');
+            }, function () {
+                $('.cartDiv').stop(true, true).css('display', 'none');
+            });
+            if ($(window).width() < 990) {
+                $('.hes').removeClass('links').addClass('text-center');
+            }
+            $('.myProfile li a, .cartWidget').blur(function (e) {
+                $('.profileMenu').stop(true, true).slideUp();
+                $('#search_mini_form').stop(true, true).fadeOut();
+                $('.cartDiv').stop(true, true).fadeOut();
+            });
+            $('body').on('click', '.removeFromCart', function () {
+                $this = $(this);
+                var data_id = $(this).parent().data('id');
+                $.fancybox.showLoading();
+                $.ajax({
+                    type: 'POST',
+                    url: '/e-commerce/cart/remove-item-ajax',
+                    data: {'id': data_id},
+                    success: function (result) {
+                        obj = JSON.parse(result);
+                        if (obj.error == 1) {
+                            $.fancybox.hideLoading();
+                            $.growl.error({title: "", message: obj.message});
+                        } else {
+                            ga('require', 'ec');
+                            ga('ec:addProduct', {
+                                'id': obj.product.id,
+                                'name': obj.product.name,
+                                'category': obj.product.category,
+                                'price': obj.product.price,
+                                'quantity': obj.product.qty
+                            });
+                            ga('ec:setAction', 'remove');
+                            ga('send', 'event', 'UX', 'click', 'add to cart');     // Send data using an event.
+                            $.fancybox.hideLoading();
+                            $this.parent().remove();
+                            $('.cartLength').text(parseInt($('.cartLength').eq('0').text()) - 1);
+                            $(".cartDiv").append(obj.message);
+                            $.growl.notice({title: "", message: "Item Removed from your cart!"});
+                        }
+                    }
+                });
+            });
+            var currentRequest = null;
+            $('.nextlevelShow a').hover(function () {
+                console.log(currentRequest);
+                $this = $(this);
+                $('.levelThree').empty().append('<li><div class="sk-cube-grid"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div></li>');
+                var slug = $(this).parent().data('slug');
+                currentRequest = $.ajax({
+                    type: 'GET',
+                    url: '/product/category/category-ajax',
+                    data: {'slug': slug},
+                    beforeSend: function () {
+                        if (currentRequest != null) {
+                            currentRequest.abort();
+                        }
+                    },
+                    success: function (result) {
+                        obj = JSON.parse(result);
+                        if (obj.error == 1) {
+                            $.growl.error({title: "", message: obj.message});
+                        } else {
+                            $this.parent().find(".levelThree").empty().append(obj.message);
+                        }
+                    },
+                    error: function (e) {
+                                 }
+                     });
+                 });
+             });
+    </script><div id="fb-root"></div><script>(function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id))
+                return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=258744340987153";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script><script type="text/javascript">
+        $(document).ready(function () {
+            if ($(window).width() < 768) {
+                $('.sideTitle').click(function () {
+                    $('#filtration').stop(true, true).slideToggle();
+                    $('.sideTitle span').toggleClass('fa-minus');
+                });
+            }
+            $('#filtration li input.str').blur(function () {
+                $('#filtration').submit();
+            });
+            $('#filtration li input').not('.str').change(function () {
+                $('#filtration').submit();
+            });
+            $('#filtration li span').change(function () {
+                $('#filtration').submit();
+            });
+            $('.moreCategories').click(function () {
+                $(this).children().stop(true, true).toggleClass('fa-minus-circle');
+                $(this).parent().parent().stop(true, true).find('.hiddenCategory').slideToggle();
+            });
+            var rate = "10";
+            var min = "10";
+            min = Number(min);
+            var max = "20000";
+            max = Number(max);
+            var currentMinPrice = "";
+            currentMinPrice = Number(currentMinPrice);
+                        var currentMaxPrice = "20000";
+                        currentMaxPrice = Number(currentMaxPrice);
+                var params = "";
+                var tax_min = "0";
+                var tax_max = "0";
+                params = $.trim(params);
+                //slider
+                $("#slider-range").slider({
+                    range: true,
+                    min: min,
+                    max: max,
+                    values: [currentMinPrice, currentMaxPrice],
+                    slide: function (event, ui) {
+                        var min_price = ui.values[0];
+                        var max_price = ui.values[1];
+                        $('#minP').val(min_price);
+                        $('#maxP').val(max_price);
+                        $('#from-val > span').text('EGP ' + ui.values[0]);
+                        $('#to-val > span').text('EGP ' + ui.values[1]);
+                    },
+                    stop: function (event, ui) {
+                        $('#filtration').submit();
+                    }
+                });
+                $('#from-val > span').text('EGP ' + $("#slider-range").slider("values", 0));
+                $('#to-val > span').text('EGP ' + $("#slider-range").slider("values", 1));
+                $('#slider-range a:first').addClass('first_item');
+                $('#slider-range a:last').addClass('last_item');
+                $('.quickView').click(function () {
+                    $.fancybox.open('#em-popup', {
+                        minWidth: '1050',
+                        height: '90%',
+                        //openEffect: 'fade',
+                        closeEffect: 'elastic'
+                    });
+                    var link = $(this).attr('href');
+                    $("#em-popup").load(link);
+                });
+                $('a.like').click(function () {
+                    $this = $(this);
+                    var data_id = $(this).parent().parent().attr('id');
+                    $.fancybox.showLoading();
+                    $.ajax({
+                        type: 'POST',
+                        url: '/product/favorite',
+                        data: {'id': data_id},
+                        success: function (result) {
+                            obj = JSON.parse(result);
+                            if (obj.value !== 1) {
+                                $this.children('i').removeClass('fa-heart').addClass('fa-heart-o');
+                                $.growl.error({title: "", message: "Like Removed!"});
+                                $.fancybox.hideLoading();
+
+                            } else {
+                                $this.children('i').removeClass('fa-heart-o').addClass('fa-heart');
+                                $.growl.notice({title: "", message: "You liked this product!"});
+                                $.fancybox.hideLoading();
+                            }
+                        }
+                    });
+                });
+                function collectQty() {
+                    prices = {};
+                    $('.PriceAndQuantity').each(function () {
+                        var data_id = $(this).data('id');
+                        var data_value = $(this).val();
+                        if (data_value > 0) {
+                            prices[data_id] = data_value;
+                        }
+                    });
+                    return prices;
+                }
+
+                function addCart() {
+                    $.fancybox.showLoading();
+                    $.ajax({
+                        type: 'POST',
+                        url: '/e-commerce/cart/add-item-ajax',
+                        data: {'data': JSON.stringify(prices)},
+                        success: function (result) {
+                            obj = JSON.parse(result);
+                            if (obj.error == 0) {
+                                if (obj.products.length > 0) {
+                                    ga('require', 'ec');
+                                    $.each(obj.products, function (i, product) {
+                                        ga('ec:addProduct', {
+                                            'id': product.id,
+                                            'name': product.name,
+                                            'category': product.category,
+                                            'price': product.price,
+                                            'quantity': product.qty
+                                        });
+                                    });
+                                    ga('ec:setAction', 'add');
+                                    ga('send', 'event', 'UX', 'click', 'add to cart');     // Send data using an event.
+                                }
+
+                                $.fancybox.hideLoading();
+                                $('.fancybox-overlay').fadeOut();
+                                $('.PriceAndQuantity').empty();
+                                $('body').removeClass('fancybox-lock');
+                                $('.cartWidgetContainer').empty().append(obj.html);
+                                $.growl.notice({title: "", message: 'Added to your cart successfully.'});
+                            } else if (obj.error == 1) {
+                                $.fancybox.hideLoading();
+                                $.growl.error({title: "", message: obj.message});
+                            } else {
+                                addCart();
+                                $('body').removeClass('fancybox-lock');
+                            }
+                        }
+                    });
+                }
+                $('#em-popup').delegate('.addToCart', 'click', function () {
+                    prices = collectQty();
+                    var value = $('.PriceAndQuantity').filter(function () {
+                        return this.value != '';
+                    });
+                    if (value.length > 0) {
+                        addCart();
+                        value.val('');
+                    } else {
+                        $('.errorAlert').show();
+                    }
+                });
+                $('#em-popup').delegate('.PriceAndQuantity', 'click', function () {
+                    $('.errorAlert').hide();
+                });
+                $('#em-popup').delegate('.addToGiftList', 'click', function () {
+                    var value = $('.PriceAndQuantity').filter(function () {
+                        return this.value != '';
+                    });
+                    if (value.length > 0) {
+                        $('.fancybox-overlay').fadeOut();
+                        $('.lightboxContainer, .lightboxAlert').fadeIn();
+                    } else {
+                        $('.errorAlert').show();
+                    }
+                });
+                $('.removeGiftList').click(function () {
+                    $('.lightboxContainer, .lightboxAlert').fadeOut();
+                });
+                $('.addToGiftList').click(function () {
+                    prices = collectQty();
+                    var slug = $('.activeGiftList:checked').data('slug');
+                    $.fancybox.showLoading();
+                    $.ajax({
+                        type: 'POST',
+                        url: '/e-commerce/gift-list/add-item/ajax',
+                        data: {'data': JSON.stringify(prices), 'slug': slug},
+                        success: function (result) {
+                            obj = JSON.parse(result);
+                            if (obj.error == 1) {
+                                $.fancybox.hideLoading();
+                                $('body').removeClass('fancybox-lock');
+                                $('.lightboxContainer, .lightboxAlert').fadeOut();
+                                $.growl.error({title: "", message: obj.message});
+                            } else {
+                                $.fancybox.hideLoading();
+                                $('.PriceAndQuantity').empty();
+                                $('body').removeClass('fancybox-lock');
+                                $('.lightboxContainer, .lightboxAlert').fadeOut();
+                                $.growl.notice({title: "", message: obj.message});
+                            }
+                        }
+                    });
+                });
+                $('.cancel').click(function () {
+                    $('.lightboxContainer, .lightboxAlertSuccess').fadeOut();
+                });
+                $('#em-popup').delegate('.notify', 'click', function () {
+                    $(this).next().children('.lightboxAlertNotify').fadeIn();
+                    $(this).next('.lightboxNotifyContainer').fadeIn();
+                });
+                $('#em-popup').delegate('.cancel', 'click', function () {
+                    $('.lightboxNotifyContainer, .lightboxAlertNotify').fadeOut();
+                });
+                $('#em-popup').delegate('.notifyBtn', 'click', function () {
+                    $this = $(this);
+                    var price_id = $('.notifyEmail').parent().parent().prev('.notify').data('id');
+                    var mails = $this.parent().find('input.notifyEmail').val();
+                    if ($.trim(mails).length != 0) {
+                        $.fancybox.showLoading();
+                        $.ajax({
+                            type: 'POST',
+                            url: '/product/notify-me',
+                            data: {'id': price_id, 'email': mails},
+                            success: function (result) {
+                                obj = JSON.parse(result);
+                                if (obj.error == 1) {
+                                    $.fancybox.hideLoading();
+                                    $('.lightboxNotifyContainer, .lightboxAlertNotify').fadeOut();
+                                    $.growl.error({title: "", message: obj.message});
+                                } else {
+                                    $.fancybox.hideLoading();
+                                    $('.lightboxNotifyContainer, .lightboxAlertNotify').fadeOut();
+                                    $.growl.notice({title: "", message: obj.message});
+                                }
+                            }
+                        });
+                    } else {
+                        $('.notifyEmail').parent().find('.errorAlert').show();
+                    }
+                });
+                $('#em-popup').delegate('.notifyEmail', 'click', function () {
+                    $(this).next('.errorAlert').hide();
+                });
+
+                $('.sortby').change(function () {
+                    url = $('.sortby').find(':selected').data('url');
+                    window.location.href = url;
+                });
+            });
+    </script></body></html>
